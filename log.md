@@ -35,4 +35,13 @@ Responsive Web Design Principles and completed all the challenges
 **Thoughts:** I learnt about color principles and responsiveness and new things on visuals ..
 
 **Link to work:** [Html](https://github.com/Ejigsonpeter/100-days-of-code/day-4)
+### Day 5: NOVEMBER 7, 2018 (CSSS Visual Designs)
+##### (delete me or comment me out)
+
+**Today's Progress**: Began CSS flex box and completed it
+Flex are very interesting. completed all the challenges
+
+**Thoughts:** I learnt about Flex and arrangements..
+
+**Link to work:** [Html](https://github.com/Ejigsonpeter/100-days-of-code/day-5)
 
