@@ -45,3 +45,13 @@ Flex are very interesting. completed all the challenges
 
 **Link to work:** [Html](https://github.com/Ejigsonpeter/100-days-of-code/day-5)
 
+### Day 6: NOVEMBER 8, 2018 (CSSS Visual Designs)
+##### (delete me or comment me out)
+
+**Today's Progress**: Began CSS GRID challenge and completed it
+GRIDS are very interesting. completed all the challenges
+
+**Thoughts:** I learnt about Grids and how to manipulate css grids..
+
+**Link to work:** [Html](https://github.com/Ejigsonpeter/100-days-of-code/day-6)
+
