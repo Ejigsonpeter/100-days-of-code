@@ -44,6 +44,7 @@ Flex are very interesting. completed all the challenges
 **Thoughts:** I learnt about Flex and arrangements..
 
 **Link to work:** [Html](https://github.com/Ejigsonpeter/100-days-of-code/day-5)
+https://codepen.io/ejigsonpeter/full/bQeYXz/
 
 ### Day 6: NOVEMBER 8, 2018 (CSSS Visual Designs)
 ##### (delete me or comment me out)
@@ -54,4 +55,12 @@ GRIDS are very interesting. completed all the challenges
 **Thoughts:** I learnt about Grids and how to manipulate css grids..
 
 **Link to work:** [Html](https://github.com/Ejigsonpeter/100-days-of-code/day-6)
+
+### Day 7: NOVEMBER 9, 2018 (CSSS Visual Designs)
+##### (delete me or comment me out)
+
+**Today's Progress**: Tribute Page Project
+
+
+**Link to work:** [Html](https://github.com/Ejigsonpeter/100-days-of-code/day-7)
 
