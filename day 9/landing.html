@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang = "en">
+  <head>
+    <title>
+      <title>Landing page </title>
+      <style type="text/css">
+        @import 'https://fonts.googleapis.com;
+  
+  *{
+    margin :0;
+    padding :0;
+    box-sizing:border-box;
+ }
+body{
+  background-color:black;
+  font-family:'sanserif',monospace;
+  color:black;
+}
+#page-wrapper{
+  position:relative;
+}
+
+
+img{
+  width:100%;
+  height:100%;
+  max-width:400px;
+  display:flex;
+  align-items:center;
+  text-align:center;
+  margin-left:10px;
+  @media (max-width: 700px) {
+      margin: 10px auto;
+    }
+}
+.logo{
+  width:60vw;
+  @media (max-width: 650px) {
+    margin-top: 15px;
+    width: 100%;
+    position: relative;
+  }
+}
+
+li{
+  list-style:none;
+}
+header {
+  position: fixed;
+  top: 0;
+  min-height: 75px;
+  padding: 0px 20px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: yellow;
+  @media (max-width: 600px) {
+    flex-wrap: wrap;
+  }
+}
+nav {
+  font-weight: 400;
+  
+  @media (max-width: 650px) {
+    margin-top: 10px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 0 50px;
+    
+    li {
+     padding-bottom: 5px; 
+    }
+  }
+}
+  
+  ul {
+    width: 35vw;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    
+    @media (max-width: 650px) {
+      flex-direction: column;
+    }
+  }
+}
+
+ul{
+  list-style-type: none;
+    margin: 0;
+    padding: 0;
+  background-color: #f1f1f1;
+    width: 200px;
+   height: 100%; 
+    position: fixed;  
+    overflow: auto;
+    
+}
+li a {
+    display: block;
+    color: #000;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color on hover */
+li a:hover {
+    background-color: #555;
+    color: white;
+}
+li {
+    text-align: center;
+    border-bottom: 1px solid #555;
+}
+p{
+  color:white;
+   margin :0;
+   padding :0;
+   box-sizing:border-box;
+   font-family:lobster;
+  text-align:center;
+  font-size :20pt;
+  
+  
+  
+}
+#body{
+   margin :0;
+   padding :10px 10px 10px 10px;
+   box-sizing:border-box;
+   width:100;
+   height:500px;
+   background:black;
+  color:white;
+  
+}
+#welcome{
+  background:black;
+  font-family:'sanserif',monospace;
+  
+}
+p.dotted {border-style: dotted;}
+
+
+#form{
+  color:white;
+}
+
+      </style>
+      <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+    </head>
+    <body>
+      <div id="page-wrapper">
+      <header id = "header">
+          <div class = "logo">
+            <img src = "https://s3.amazonaws.com/freecodecamp/original_trombones.png" id = "header-img" alt = "original trombones" />
+            
+           </div>
+       <nav id = "nav-bar">
+         <ul>
+           <li id = "nav-link" href = "#">
+             How it works
+           </li>
+           <li id = "nav-link" href = "#">
+             Features
+           </li>
+           <li id = "nav-link" href = "#">
+             Price
+           </li>
+           </ul>
+         
+         </nav>
+        </header>
+        </div >
+      
+      <div class="container">
+
+   </div>
+      <br>
+      <br>
+      <br>
+      <br>
+      <div id = "body">
+        <p>
+          
+          Welcome and get Handcrafted, home-made masterpieces
+         <center> <img src = "http://www.tbonejeff.com/images/banner.png"  width = "100%"  id = "logo"/>
+           </center>
+          
+          </p>
+        <br>
+        <br>
+        <div id = "video">
+          <center>
+          <iframe id="video" height="440"  width = "840" src="https://www.youtube-nocookie.com/embed/y8Yv4pnO7qc?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+          </center>
+        
+        </div>
+        <br>
+        <br>
+        <center>
+          
+        <form method = "post" action = "https://www.freecodecamp.com/email-submit" id = "form">
+          <label>Email</label>
+          <input type ="email" />
+          <button id = "submit" >submit</button>
+          </form>
+      
+        </center>
+      
+      
+
+     </body>
+ </html>

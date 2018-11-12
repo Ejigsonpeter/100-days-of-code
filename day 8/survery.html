@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang = "en">
+  <head>
+    <title>Survery form</title>
+    <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+  </head>
+  <style>
+  body{
+  background:silver;
+}
+#title{
+  color : green;
+  text-align:center;
+  font-family:lobster;
+}
+#description{
+  font-family:helvetica,sanserif;
+  color:black;
+}
+#survey-form{
+  width:100%;
+  height:100%;
+  margin-top:10px;
+  margin-left:20px;
+  margin-right:20px;
+  margin-bottom:10px;
+  font-family:helvetica;
+  font-size:14px;
+}
+#submit{
+  color:blue;
+  font-family:lobster;
+  align:center;
+  padding:10px,0px,10px,0px ;
+}
+
+</style>
+  <body>
+    <main >
+      <div id = "title">
+        <h1>Survey Form</h1>
+        <p id = "description">Let us know how we can improve freeCodeCamp</p>
+      </div>
+      <form id = "survey-form">
+        <legend>
+          Please FIll the form
+          </legend>
+        <table>
+          <tr>
+            <td>
+        <label>Name :</label>
+              </td>
+            <td>
+        <input id = "name" type = "text" required/>
+              </td>
+            </tr>
+          <tr>
+            <td>
+        <label>Email :</label>
+              </td>
+            <td>
+        <input id = "email" type = "email" required/>
+              </td>
+            </tr>
+          <tr>
+            <td>
+        <label>Phone number :</label>
+              </td>
+            <td>
+        <input id = "name" type = "number" size  = "50px" max = "11" min = "11" required/>
+              </td>
+            </tr>
+          <tr>
+            <td>
+        <label>Age :</label>
+              </td>
+            <td>
+        <input id = "name" type = "number" size  = "50px" min ="1" max = "3" required/>
+              </td>
+            </tr>
+          <tr>
+            <td>
+        <label>Which option best describes your current role?</label>
+              </td>
+            <td>
+        <select id = "dropdown" type = "text" required>
+          <option value = "student" >Student</option>
+           <option value "fulltime job">Full time job</option>
+          <option vlaue = "full time learner">Full time learner</option>
+          <option >Prefer not to say</option>
+          <option >None</option>
+          </select>
+              </td>
+            </tr>
+          <tr>
+            <td>
+        <label>How likely is that you would recommend freeCodeCamp to a friend? </label>
+              </td>
+            <td>
+             
+        <input id = "option" type = "radio" size  = "50px"/>Definitely</input>
+          <input id = "option" type = "radio" size  = "50px"/>Maybe</input>
+        <input id = "option" type = "radio" size  = "50px"/>Not sure</input>
+              </td>
+            </tr>
+          <tr>
+            <td>
+        <label>What do you like most in FCC :</label>
+              </td>
+            <td>
+       <select id = "dropdown" type = "text" >
+          <option >Project</option>
+           <option >Challenges</option>
+          <option >Community</option>
+          <option >Open Source</option>
+          </select>
+              </td>
+            </tr>
+          <tr>
+            <td>
+        <label>Things that should be improved in the future
+(Check all that apply):</label>
+              </td>
+            <td>
+     <input id = "option" type = "checkbox" size  = "50px"/>Front-end Projects</input>
+          <input id = "option" type = "checkbox" size  = "50px"/>Back-end Projects</input>
+        <input id = "option" type = "checkbox" size  = "50px"/>Data Visualization</input>
+              </td>
+            </tr>
+<tr>
+            <td>
+        <label>Any Comments or Suggestions? :</label>
+              </td>
+            <td>
+        <textarea  size = "150px" width = "100px" >
+          </textarea>
+              </td>
+            </tr>
+<tr
+    <td>
+
+</td>
+   <td>
+     <center>
+    <button id = "submit">Submit</submit>
+       </center>
+     </td>
+  </tr>
+      </form>
+      </main>
+    </body>
+  
+  </html>

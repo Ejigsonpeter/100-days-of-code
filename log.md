@@ -64,3 +64,21 @@ GRIDS are very interesting. completed all the challenges
 
 **Link to work:** [Html](https://github.com/Ejigsonpeter/100-days-of-code/day-7)
 
+### Day 8: NOVEMBER 10
+##### (delete me or comment me out)
+
+**Today's Progress**: I was Sick
+
+**Link to work:** 
+### Day 9: NOVEMBER 10
+##### (delete me or comment me out)
+
+**Today's Progress**: I was Sick
+
+ ### Day 10: NOVEMBER 9, 2018 (Projects)
+##### (delete me or comment me out)
+
+**Today's Progress**: Survery Project , Landing page project.
+
+
+**Link to work:** [Html](https://github.com/Ejigsonpeter/100-days-of-code/day-10)
