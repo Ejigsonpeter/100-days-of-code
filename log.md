@@ -70,15 +70,31 @@ GRIDS are very interesting. completed all the challenges
 **Today's Progress**: I was Sick
 
 **Link to work:** 
-### Day 9: NOVEMBER 10
+### Day 9: NOVEMBER 11
 ##### (delete me or comment me out)
 
 **Today's Progress**: I was Sick
 
- ### Day 10: NOVEMBER 9, 2018 (Projects)
+ ### Day 10: NOVEMBER 12, 2018 (Projects)
 ##### (delete me or comment me out)
 
 **Today's Progress**: Survery Project , Landing page project.
 
 
 **Link to work:** [Html](https://github.com/Ejigsonpeter/100-days-of-code/day-10)
+
+### Day 11: NOVEMBER 13, 2018 (Projects)
+##### (delete me or comment me out)
+
+**Today's Progress**: Javascript basics.
+
+
+**Link to work:** [Html](https://github.com/Ejigsonpeter/100-days-of-code/day-11)
+
+### Day 12: NOVEMBER 15, 2018 (Projects)
+##### (delete me or comment me out)
+
+**Today's Progress**: Javascript basics
+
+
+**Link to work:** [Html](https://github.com/Ejigsonpeter/100-days-of-code/day-12)
