@@ -1,0 +1,1 @@
+{"index.js":"// Example\nfunction ourReusableFunction() {\n  console.log(\"Heyya, World\");\n}\n\n\n\n\nourReusableFunction();\n\n// Only change code below this line\n function reusableFunction(){\n     console.log(\"Hi World\");\n }\n\n reusableFunction();"}
