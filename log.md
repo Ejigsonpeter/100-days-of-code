@@ -99,10 +99,18 @@ GRIDS are very interesting. completed all the challenges
 
 **Link to work:** [Html](https://github.com/Ejigsonpeter/100-days-of-code/day-12)
 
-### Day 13: NOVEMBER 15, 2018 (Projects)
+### Day 13: NOVEMBER 16, 2018 (Projects)
 ##### (delete me or comment me out)
 
 **Today's Progress**: Javascript basics
 
 
 **Link to work:** [Html](https://github.com/Ejigsonpeter/100-days-of-code/day-13)
+
+### Day 14: NOVEMBER 17, 2018 (Projects)
+##### (delete me or comment me out)
+
+**Today's Progress**: Javascript basics 
+
+
+**Link to work:** [Html](https://github.com/Ejigsonpeter/100-days-of-code/day-14)
