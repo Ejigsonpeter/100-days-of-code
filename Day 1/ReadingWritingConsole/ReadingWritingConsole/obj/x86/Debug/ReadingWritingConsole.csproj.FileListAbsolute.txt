@@ -1,0 +1,4 @@
+C:\100-days-of-code\Day 1\ReadingWritingConsole\ReadingWritingConsole\bin\Debug\ReadingWritingConsole.exe
+C:\100-days-of-code\Day 1\ReadingWritingConsole\ReadingWritingConsole\bin\Debug\ReadingWritingConsole.pdb
+C:\100-days-of-code\Day 1\ReadingWritingConsole\ReadingWritingConsole\obj\x86\Debug\ReadingWritingConsole.exe
+C:\100-days-of-code\Day 1\ReadingWritingConsole\ReadingWritingConsole\obj\x86\Debug\ReadingWritingConsole.pdb

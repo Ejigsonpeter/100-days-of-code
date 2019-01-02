@@ -1,0 +1,4 @@
+C:\100-days-of-code\Day 1\Welcome\Welcome\bin\Debug\Welcome.exe
+C:\100-days-of-code\Day 1\Welcome\Welcome\bin\Debug\Welcome.pdb
+C:\100-days-of-code\Day 1\Welcome\Welcome\obj\x86\Debug\Welcome.exe
+C:\100-days-of-code\Day 1\Welcome\Welcome\obj\x86\Debug\Welcome.pdb

@@ -1,0 +1,4 @@
+C:\100-days-of-code\Day 1\Builtintypes\Builtintypes\bin\Debug\Builtintypes.exe
+C:\100-days-of-code\Day 1\Builtintypes\Builtintypes\bin\Debug\Builtintypes.pdb
+C:\100-days-of-code\Day 1\Builtintypes\Builtintypes\obj\x86\Debug\Builtintypes.exe
+C:\100-days-of-code\Day 1\Builtintypes\Builtintypes\obj\x86\Debug\Builtintypes.pdb

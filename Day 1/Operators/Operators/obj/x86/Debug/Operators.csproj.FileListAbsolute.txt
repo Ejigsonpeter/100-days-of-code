@@ -1,0 +1,4 @@
+C:\100-days-of-code\Day 1\Operators\Operators\bin\Debug\Operators.exe
+C:\100-days-of-code\Day 1\Operators\Operators\bin\Debug\Operators.pdb
+C:\100-days-of-code\Day 1\Operators\Operators\obj\x86\Debug\Operators.exe
+C:\100-days-of-code\Day 1\Operators\Operators\obj\x86\Debug\Operators.pdb
