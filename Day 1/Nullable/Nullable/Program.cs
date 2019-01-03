@@ -1,7 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
+
 
 namespace Nullable
 {
@@ -9,6 +7,7 @@ namespace Nullable
     {
         static void Main(string[] args)
         {
+            int? i = null; // this how to make a value tyoe nullable  
         }
     }
 }
