@@ -17,13 +17,13 @@ namespace ConsoleApp2
             array[2] = 7;
             int i = 0;
 
-            for (int h = 0; i <=20; i++)
+            for (int h = 0; h <=20; h++)
             {
-                if(i % 2 == 1)
+                if(h % 2 == 1)
                 {
                     continue;
                 }
-                Console.WriteLine(i);
+                Console.WriteLine(h);
             }
 
             foreach (int k in array)
