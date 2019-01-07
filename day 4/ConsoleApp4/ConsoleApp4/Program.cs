@@ -1,19 +1,21 @@
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using PATA = ProjectA.TeamA;
+using PATB = ProjectA.TeamB;
 
 class Program
+    
 {
     static void Main(string[] args)
     {
-
-        Console.WriteLine("Hello world ");
+        PATA.ClassA.Print();
+        PATB.ClassB.Print();
+        //wonderful namespace
+     
         Console.ReadKey();
 
 
     }
 }
-    
+
+
 
