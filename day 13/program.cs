@@ -6,5 +6,5 @@ namespace day13
         public static void Main(strings [] args){
             Console.WriteLine("hello world");
         }
-    }
-c}
+}
+}
