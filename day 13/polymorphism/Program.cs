@@ -22,7 +22,7 @@ public class fullTimeEmployee:Employee{
 }
 public class temporaryEmployee:Employee{
      public override void printFullname(){
-        Console.WriteLine(firstname +" "+lastname + "-TemporaryTime Employee");
+       Console.WriteLine(firstname +" "+lastname + "-TemporaryTime Employee");
     }
 
 }
