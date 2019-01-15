@@ -4,7 +4,7 @@ namespace csharpmethodhiding{
     class Employee{
         public string firstName;
         public string lastName;
-        public string email;
+        public string email ="@" ;
 
         //print method
         public void printFullName(){
@@ -16,19 +16,25 @@ namespace csharpmethodhiding{
 
     }
     class partTimeEmployee:Employee{
+        public new void  printFullName(){
+            base.printFullName();
+            //Console.WriteLine(lastName +" "+firstName + "-Contractor");
+        }
 
     }
     class program{
         public static void Main(string [] args){
             fullTimeEmployee FTE = new fullTimeEmployee();
             FTE.lastName = "Uyo";
-            FTE.lastName = "Meyo";
+            FTE.firstName = "Meyo";
             FTE.printFullName();
 
-            partTimeEmployee FTE = new partTimeEmployee();
+            partTimeEmployee PTE = new partTimeEmployee();
             PTE.lastName = "Uyo";
-            PTE.lastName = "Meyo";
+            PTE.firstName = "kayo";
             PTE.printFullName();
+            //un the unhiding the method
+            ((Employee)PTE).printFullName();
 
         }
     }
