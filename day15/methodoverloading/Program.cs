@@ -6,7 +6,15 @@ namespace methodoverloading
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            add(2,7);
         }
+
+        public static void add(int fn,int ln ){
+            Console.WriteLine("sum = {0}",fn + ln);
+        }
+        public static void add(int fn,int ln, int tn){
+            Console.WriteLine("sum = {0}",fn+ln);
+        }
+
     }
 }
