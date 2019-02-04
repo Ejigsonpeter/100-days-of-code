@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:carousel_pro/carousel_pro.dart';
 
 import 'package:shopify/components/horizontal_listview.dart';
-
+import 'package:shopify/components/products.dart';
 void main(){
   runApp(
     MaterialApp(
@@ -163,6 +163,17 @@ child: new Carousel(
 
           //horizontal list view begin here
           horizontalList(),
+
+          //padding widget
+          new Padding(padding: const EdgeInsets.all(4.0),
+          child: new Text('Recent Products'),),
+
+          //gridview
+          Container(
+            height: 320.0,
+            child: Products(),
+
+          )
         ],
       ),
       );
